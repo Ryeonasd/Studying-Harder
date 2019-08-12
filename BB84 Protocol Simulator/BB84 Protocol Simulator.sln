@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BB84 Protocol Simulator", "BB84 Protocol Simulator\BB84 Protocol Simulator.vcxproj", "{8DB8DE12-346C-4424-B051-174B54A5712B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Debug|x64.ActiveCfg = Debug|x64
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Debug|x64.Build.0 = Debug|x64
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Debug|x86.Build.0 = Debug|Win32
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Release|x64.ActiveCfg = Release|x64
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Release|x64.Build.0 = Release|x64
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Release|x86.ActiveCfg = Release|Win32
+		{8DB8DE12-346C-4424-B051-174B54A5712B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C835EB-91F7-4E8D-8262-5A9BFF082765}
+	EndGlobalSection
+EndGlobal
